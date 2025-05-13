@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/yoga-starting-2-page/static/css/main.e7f75903.css",
-    "main.js": "/yoga-starting-2-page/static/js/main.6e8bd1bf.js",
+    "main.js": "/yoga-starting-2-page/static/js/main.ff26c72d.js",
     "static/js/453.1d72c898.chunk.js": "/yoga-starting-2-page/static/js/453.1d72c898.chunk.js",
     "static/media/bg-video.mp4": "/yoga-starting-2-page/static/media/bg-video.9d5a693aaccb6910f6d7.mp4",
     "static/media/landing-image.png": "/yoga-starting-2-page/static/media/landing-image.a6307e01125e972bb5b3.png",
@@ -12,11 +12,11 @@
     "static/media/enter-btn-2.png": "/yoga-starting-2-page/static/media/enter-btn-2.9307a1ae1098dd1fcef8.png",
     "index.html": "/yoga-starting-2-page/index.html",
     "main.e7f75903.css.map": "/yoga-starting-2-page/static/css/main.e7f75903.css.map",
-    "main.6e8bd1bf.js.map": "/yoga-starting-2-page/static/js/main.6e8bd1bf.js.map",
+    "main.ff26c72d.js.map": "/yoga-starting-2-page/static/js/main.ff26c72d.js.map",
     "453.1d72c898.chunk.js.map": "/yoga-starting-2-page/static/js/453.1d72c898.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e7f75903.css",
-    "static/js/main.6e8bd1bf.js"
+    "static/js/main.ff26c72d.js"
   ]
 }
