@@ -1,0 +1,63 @@
+.first_enter_btn {
+    position: absolute;
+    top: 30vh;
+    left: 27vw;
+    border: none;
+    background: transparent;
+    padding: 0;
+    cursor: pointer;
+    object-fit: contain;
+    transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+}
+
+.first_enter_btn:hover {
+  transform: scale(1.1);
+}
+
+.second_enter_btn {
+    position: absolute;
+    top: 30vh;
+    right: 15vw;
+    border: none;
+    background: transparent;
+    padding: 0;
+    cursor: pointer;
+    object-fit: contain;
+    transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+}
+
+.second_enter_btn:hover {
+  transform: scale(1.1);
+}
+
+.third_enter_btn {
+    position: absolute;
+    bottom: 11vh;
+    left: 14vw;
+    border: none;
+    background: transparent;
+    padding: 0;
+    cursor: pointer;
+    object-fit: contain;
+    transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+}
+
+.third_enter_btn:hover {
+  transform: scale(1.1);
+}
+
+.fourth_enter_btn {
+    position: absolute;
+    bottom: 11vh;
+    right: 30vw;
+    border: none;
+    background: transparent;
+    padding: 0;
+    cursor: pointer;
+    object-fit: contain;
+    transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+}
+
+.fourth_enter_btn:hover {
+  transform: scale(1.1);
+}
